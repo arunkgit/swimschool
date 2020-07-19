@@ -1,5 +1,5 @@
 <html>
 	<body>
-		<h1 style="color:red;">Docker-Deploy-Success</h1>
+		<h1 style="color:green;">Docker-Deploy-Success</h1>
 	</body>
 </html>
